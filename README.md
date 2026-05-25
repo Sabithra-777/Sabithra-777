@@ -2,17 +2,17 @@
 
 💻 **Full Stack Developer | BE CSE Student | React & Django Developer**
 
-Passionate about building practical web applications, improving problem-solving skills, and learning modern full stack technologies through real-world projects.
+Passionate about building real-world web applications, solving practical problems, and continuously improving my development skills.
 
 ---
 
 # 👩‍💻 About Me
 
 🎓 BE Computer Science Engineering Student at Sri Eshwar College of Engineering
-🚀 Interested in Full Stack Development, UI/UX, and Backend Systems
-💡 Building real-world projects using React, Django, and modern web technologies
-📚 Currently learning advanced backend development, APIs, and Data Structures
-⚡ Consistently improving through projects, internships, and coding practice
+🚀 Interested in Full Stack Development, Backend Systems, and UI/UX
+💡 Building modern web applications using React, Django, and full stack technologies
+📚 Currently learning Backend APIs, System Design, and Data Structures
+⚡ Focused on practical projects, internships, and continuous learning
 
 ---
 
@@ -27,7 +27,7 @@ Passionate about building practical web applications, improving problem-solving 
 ### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs"/>
 </p>
 
 ### ⚙ Backend
@@ -52,21 +52,17 @@ Passionate about building practical web applications, improving problem-solving 
 
 # 🚀 Featured Projects
 
-### 🛒 E-Commerce Platform
+### 🤖 Smart Interview Prep System
 
-Built a full-stack eCommerce application with authentication, cart management, favorites, wallet system, responsive UI, and product collections using React and Django.
+Built an interview preparation platform with aptitude practice, coding preparation, learning resources, and interactive user experience for placement training.
 
-### ☕ Starbucks Website Rebrand
+### 🛒 Grocery E-Commerce Platform
 
-Designed and developed a modern AI-assisted Starbucks website rebrand using Next.js and Tailwind CSS with a clean and interactive UI.
+Developed a full-stack grocery shopping application with authentication, cart management, responsive UI, and product management using React and Django.
 
-### 💼 Personal Portfolio Website
+### 🚗 Vehicle Insurance Fraud Detection System
 
-Created a responsive portfolio website showcasing projects, skills, achievements, and development journey.
-
-### 📊 Data Analysis Projects
-
-Worked on Python-based data analysis and visualization projects using NumPy, Pandas, and Matplotlib.
+Created a smart fraud detection system that analyzes insurance-related data to identify suspicious claims and improve fraud prevention efficiency.
 
 ---
 
@@ -76,18 +72,17 @@ Worked on Python-based data analysis and visualization projects using NumPy, Pan
 ⚡ Learning Advanced Backend & API Design
 📈 Practicing Data Structures & Algorithms
 🎨 Building Better UI/UX Experiences
-🌐 Exploring Cloud & Deployment Workflows
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabithra-777&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabithra-777&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabithra-777&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Sabithra-777&theme=tokyonight" />
 </p>
 
 ---
