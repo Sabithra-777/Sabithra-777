@@ -82,11 +82,11 @@ Worked on Python-based data analysis and visualization projects using NumPy, Pan
 
 # 📊 GitHub Stats
 
-![Sabithra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabithra-777\&show_icons=true\&theme=tokyonight)
+![Sabithra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabithra-777&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabithra-777\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabithra-777&layout=compact\&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sabithra-777\&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sabithra-777&theme=tokyonight)
 
 ---
 
