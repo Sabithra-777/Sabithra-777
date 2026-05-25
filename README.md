@@ -8,7 +8,7 @@ Passionate about building real-world web applications, solving practical problem
 
 # 👩‍💻 About Me
 
-🎓 BE Computer Science Engineering Student at Sri Eshwar College of Engineering
+🎓 BE Computer Science and Engineering Student at Sri Eshwar College of Engineering
 🚀 Interested in Full Stack Development, Backend Systems, and UI/UX
 💡 Building modern web applications using React, Django, and full stack technologies
 📚 Currently learning Backend APIs, System Design, and Data Structures
