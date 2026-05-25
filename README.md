@@ -21,31 +21,31 @@ Passionate about building practical web applications, improving problem-solving 
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,cpp,c,java"/>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,c,java"/>
 </p>
 
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
 </p>
 
 ### ⚙ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express"/>
 </p>
 
 ### 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 ### 🛠 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
 </p>
 
 ---
@@ -82,23 +82,28 @@ Worked on Python-based data analysis and visualization projects using NumPy, Pan
 
 # 📊 GitHub Stats
 
-![Sabithra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabithra-777&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabithra-777&show_icons=true&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabithra-777&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sabithra-777&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabithra-777&theme=radical" />
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabithra-777&theme=tokyo-night"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabithra-777&theme=tokyo-night" />
+</p>
 
 ---
 
 # 📫 Connect With Me
 
 🌐 Portfolio: https://sabithraportfolio.netlify.app/
+
 💼 LinkedIn: https://www.linkedin.com/in/sabithra-m-430751337/
 
 ---
