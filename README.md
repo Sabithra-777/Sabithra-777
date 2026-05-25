@@ -92,7 +92,7 @@ Worked on Python-based data analysis and visualization projects using NumPy, Pan
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabithra-777E&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabithra-777&theme=tokyo-night"/>
 
 ---
 
