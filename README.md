@@ -78,10 +78,6 @@ Created a smart fraud detection system that analyzes insurance-related data to i
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabithra-777&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Sabithra-777&theme=tokyonight" />
 </p>
 
